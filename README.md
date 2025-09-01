@@ -19,7 +19,7 @@ Think of it as your personal **Jarvis-like assistant** that can listen, respond,
 > Add screenshots or a demo GIF of your assistant in action here.
 
 <p align="center">
-  <img src="https://github.com/Igsankya24/python-Ai-Project/Screenshots/Screenshot 2025-09-01 131942.png" width="700" alt="Demo Screenshot">
+  <img src="https://github.com/Igsankya24/python-Ai-Project/blob/main/Screenshots/Screenshot%202025-09-01%20131942.png" width="700" alt="Demo Screenshot">
 </p>
 <p align="center">
   <img src="https://github.com/Igsankya24/Screenshots/Screenshot_1-9-2025_13190_agents-playground.livekit.io.jpeg" width="700" alt="Demo Screenshot">
