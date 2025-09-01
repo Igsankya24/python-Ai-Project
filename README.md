@@ -26,8 +26,13 @@ Think of it as your personal **Jarvis-like assistant** that can listen, respond,
 
 ## 📂 Project Structure
 python-Ai-Project/
+
 │-- agent.py # Main AI assistant entry point
+|
 │-- requirements.txt # Python dependencies
+|
 │-- README.md # Project documentation
+|
 │-- tools/ # Custom tools (file opener, search, etc.)
+|
 │-- data/ # Stored conversations or datasets
