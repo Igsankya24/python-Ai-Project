@@ -16,7 +16,6 @@ Think of it as your personal **Jarvis-like assistant** that can listen, respond,
 
 ## 📸 Demo Preview
 
-> Add screenshots or a demo GIF of your assistant in action here.
 
 <p align="center">
   <img src="https://github.com/Igsankya24/python-Ai-Project/blob/main/Screenshots/Screenshot%202025-09-01%20131942.png" width="700" alt="Demo Screenshot">
